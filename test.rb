@@ -8,3 +8,5 @@ kittens.each do |kitten|
 end
 
 f.close
+
+puts "test"
